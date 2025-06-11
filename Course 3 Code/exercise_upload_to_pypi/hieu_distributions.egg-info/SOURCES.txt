@@ -1,0 +1,10 @@
+setup.py
+hieu_distributions/Binomialdistribution.py
+hieu_distributions/Gaussiandistribution.py
+hieu_distributions/Generaldistribution.py
+hieu_distributions/__init__.py
+hieu_distributions.egg-info/PKG-INFO
+hieu_distributions.egg-info/SOURCES.txt
+hieu_distributions.egg-info/dependency_links.txt
+hieu_distributions.egg-info/not-zip-safe
+hieu_distributions.egg-info/top_level.txt
