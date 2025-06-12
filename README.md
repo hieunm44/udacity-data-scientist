@@ -12,11 +12,14 @@ __Course 2 - Introduction to Data Science__ \
 __Project__: Writing a Data Scientist Blog Post
 
 __Course 3 - Software Engineering__
+__Contents__: SE Practices (Clean code, Refactor code, Documentation, Version control, Testing, Logging), OOP, Upload a Packge to Pypi, Web Development (HTML, CSS, Plotly, Flask, Heroku)
 
 __Course 4 - Data Engineering__ \
+__Contents__: ETL (Extract CSV, JON, XML, SQL, API, Cleaning data, Feature engineering), NLP Pipelines (Cleaning, Normalization, Tokenization, POS, NER, Stemming, Lemmatization, Bag of words, TF-IDF, Word embeddings, nltk), ML Pipelines (Workflow, Transformer, Pipelinem, Grid search, sklearn) \
 __Project__: Disaster Response Pipeline
 
 __Course 5 - Experimental Design and Recommendations__ \
+__Contents__: Experiment Design (Metrics, Validity, Bias, Ethics), Statistical Testing (Statistical significance, Practical significance, Early stopping, A/B testing case study), Recommendation Engines (Knowledge-based, Content-based, Similarity, CF, MF, SVD, Cold start) \
 __Project__: Recommendation Engines
 
 __Course 6 - Data Scientist Capstone__ \
