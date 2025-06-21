@@ -15,7 +15,7 @@ __Course 3 - Software Engineering__
 __Contents__: SE Practices (Clean code, Refactor code, Documentation, Version control, Testing, Logging), OOP, Upload a Packge to Pypi, Web Development (HTML, CSS, Plotly, Flask, Heroku)
 
 __Course 4 - Data Engineering__ \
-__Contents__: ETL (Extract CSV, JON, XML, SQL, API, Cleaning data, Feature engineering), NLP Pipelines (Cleaning, Normalization, Tokenization, POS, NER, Stemming, Lemmatization, Bag of words, TF-IDF, Word embeddings, nltk, BeautifulSoup), ML Pipelines (Workflow, Transformer, Pipelinem, Grid search, sklearn) \
+__Contents__: ETL (Extract CSV, JON, XML, SQL, API, Cleaning data, Feature engineering, sqlite3, sqlalchemy), NLP Pipelines (Cleaning, Normalization, Tokenization, POS, NER, Stemming, Lemmatization, Bag of words, TF-IDF, Word embeddings, nltk, BeautifulSoup), ML Pipelines (Workflow, Transformer, Pipelinem, Grid search, sklearn) \
 __Project__: Disaster Response Pipeline
 
 __Course 5 - Experimental Design and Recommendations__ \
